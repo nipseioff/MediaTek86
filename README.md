@@ -192,17 +192,9 @@ L'application permet de :
 
 ## Démonstration vidéo
 
-> Lien vers la vidéo de démonstration à renseigner :
+> Lien vers la vidéo de démonstration
 
 [Voir la vidéo de démonstration](LIEN_VIDEO_ICI)
-
----
-
-## Dépôt GitHub
-
-> Lien vers le dépôt GitHub à renseigner :
-
-[Voir le dépôt GitHub](LIEN_DEPOT_ICI)
 
 ---
 
