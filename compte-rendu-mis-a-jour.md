@@ -209,13 +209,8 @@ Création du projet d'installation via Visual Studio Installer Projects, ajout d
 
 ## 10. Démonstration vidéo
 
-> Lien à renseigner : `LIEN_VIDEO_ICI`
+> Lien de la vidéo: `#`
 
----
-
-## 11. Dépôt GitHub
-
-> Lien à renseigner : `LIEN_DEPOT_ICI`
 
 ---
 
