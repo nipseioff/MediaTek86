@@ -187,6 +187,7 @@ L'application permet de :
 6. Restaurer les packages NuGet si nécessaire (clic droit sur la solution > Restaurer les packages).
 7. Compiler le projet en mode Release.
 8. Lancer l'application avec F5 ou utiliser le fichier `.msi` généré par l'installeur.
+9. Se log en utilisant "jules" et "nipsei" en pswd
 
 ---
 
